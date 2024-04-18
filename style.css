@@ -1,0 +1,138 @@
+h1 {
+  color: rgb(249, 249, 249);
+  font-size: 64;
+}
+
+body {
+  background-image: url("https://media.idownloadblog.com/wp-content/uploads/2020/09/iPad-Air-2020-wallpaper-for-desktop-idownloadblog-4-by-AR7.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #625252;
+}
+
+#about_div {
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+#contact_div {
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+#div-body {
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+#contact123 {
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+#p1 {
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+#p2{
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3)
+}
+#p3{
+  color: black;
+  width: 60%;
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.21);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(4.9px);
+  -webkit-backdrop-filter: blur(16.9px);
+  border: 1px solid rgba(255, 255, 255, 0.3)
+}
